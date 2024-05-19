@@ -1,0 +1,3 @@
+Number of (non_blank lines: 1
+Number of words: 57
+Average word length: 4
